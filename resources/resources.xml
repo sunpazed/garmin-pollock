@@ -1,0 +1,20 @@
+<resources>
+    <strings>
+      <string id="AppName">Pollock</string>
+    </strings>
+
+    <drawables>
+      <bitmap id="LauncherIcon" filename="bitmaps/launcher_icon.png" />
+    </drawables>
+
+    <fonts>
+      <font id="brushes_solid" filename="fonts/brushes-solid.fnt" antialias="true"/>
+      <font id="brushes_alpha" filename="fonts/brushes-alpha.fnt" antialias="true"/>
+      <font id="digit_bold" filename="fonts/big-digit-bold.fnt" antialias="true"/>
+      <font id="digit_thin" filename="fonts/big-digit-thin.fnt" antialias="true"/>
+    </fonts>
+
+    <bitmaps>
+    </bitmaps>
+
+</resources>
